@@ -1,10 +1,7 @@
 # slotmachine
-slot machine, byname one-armed bandit, known in Great Britain as a fruit machine, gambling device operated by dropping one or more coins or tokens into a slot and pulling a handle or pushing a button to activate one to three or more reels marked into horizontal segments by varying symbols.
-Creating a README for your GitHub repository is a great way to provide information about your code, how to use it, and any other relevant details. Here's a sample README for your slot machine code:
+slot machine, byname one-armed bandit, known in Great Britain as a fruit machine, gambling device operated by dropping one or more coins or tokens into a slot and pulling a handle or pushing a button to activate one to three or more reels marked into horizontal segments by varying symbols
 
 ---
-
-# Slot Machine
 
 A simple slot machine game implemented in Python.
 
