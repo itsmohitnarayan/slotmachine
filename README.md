@@ -5,6 +5,37 @@ slot machine, byname one-armed bandit, known in Great Britain as a fruit machine
 
 A simple slot machine game implemented in Python.
 
+---
+
+The Slot Machine project is a Python console game that emulates the thrill of playing a classic slot machine. It includes multiple lines betting, random symbol generation, and user-friendly interaction.
+
+**Features:**
+- **Multiple Lines Betting:** Players can bet on multiple lines to enhance their winning chances.
+- **Random Symbol Generation:** The game ensures fair and unpredictable outcomes through random symbol generation.
+- **Winning Combination Detection:** It detects winning symbol combinations and calculates winnings.
+- **User-Friendly Interface:** With prompts and input validation, the game offers an intuitive user experience.
+
+**How to Play:**
+1. **Deposit Money:** Begin by depositing an initial balance for betting.
+2. **Place Bets:** Choose the number of lines and set your bet amount per line.
+3. **Spin the Reels:** Spin the reels to reveal symbols and check for winning combinations.
+4. **Check Winnings:** The game calculates and displays winnings.
+5. **Continue or Quit:** Decide whether to keep playing or quit, with your remaining balance shown.
+
+**Customization:**
+The game is highly customizable. Adjust parameters like bet limits, lines, and symbol values to suit your preferences.
+
+**Requirements:**
+Python 3.x is required to run the Slot Machine game.
+
+**License:**
+This open-source project is licensed under the MIT License, permitting modification and distribution.
+
+**Acknowledgments:**
+Created for educational purposes, this project offers insights into Python programming, randomization, input validation, and basic game logic.
+
+---
+
 ## Table of Contents
 
 - [Introduction](#introduction)
